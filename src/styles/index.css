@@ -5,7 +5,7 @@ body {
 }
 
 .dog {
-    background-image: url("../funny-dog.jpg");
+    background-image: url("@src/funny-dog.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
