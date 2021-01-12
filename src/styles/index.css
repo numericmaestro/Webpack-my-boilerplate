@@ -1,0 +1,15 @@
+body {
+    /* Комментарий! */
+    background-color: orange;
+    font-family: "Roboto", "Arial", sans-serif;
+}
+
+.dog {
+    background-image: url("../funny-dog.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    display: block;
+    width: 500px;
+    height: 500px;
+}
